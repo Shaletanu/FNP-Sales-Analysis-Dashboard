@@ -1,6 +1,4 @@
-# FNP-Sales-Analysis-Dashboard
-
-# <b>FNP Sales Dashboard - Executive Summary</b>
+# <b>FNP Sales Dashboard</b>
 
 This project presents a comprehensive **Sales Analysis Dashboard** for FNP (Ferns N Petals), designed using **Microsoft Excel** PivotTables, PivotCharts, and Slicer tools. The primary goal is to analyze sales trends and performance across multiple dimensions such as occasions, product categories, cities, and time frames to aid data-driven business decisions.
 
