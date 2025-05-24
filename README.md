@@ -59,10 +59,12 @@ This project presents a comprehensive **Sales Analysis Dashboard** for FNP (Fern
 ## 📁 Tools Used
 
 - Microsoft Excel  
-  - PivotTable  
+  - PivotTable
+  - Power Query
+  - Power Pivot 
   - PivotChart  
   - Slicer Tool  
-- Dataset of sales records (Orders, Revenue, Categories, Dates, and Locations)
+- Dataset of sales records (Customers, Orders and Products)
 
 ---
 
